@@ -66,7 +66,7 @@ void main()
                     }
                     break;
                 case terminate:
-                    printf("\nWrong input.Try again ......");
+                    printf("\nWrong input.......");
                     return;
         }
         ++i;
